@@ -1,2 +1,2 @@
 # Optical-Music-Recognition
-![](images/arhictecure.png)
+![](images/architecture.png)
